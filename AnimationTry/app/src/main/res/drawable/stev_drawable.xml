@@ -1,0 +1,11 @@
+<!-- Animation frames are wheel0.png - wheel5.png files inside the
+ res/drawable/ folder -->
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/steve_drawable_rs" android:oneshot="false">
+    <item android:drawable="@drawable/stev0" android:duration="50"/>
+    <item android:drawable="@drawable/stev1" android:duration="50"/>
+    <item android:drawable="@drawable/stev2" android:duration="50"/>
+    <item android:drawable="@drawable/stev3" android:duration="50"/>
+    <item android:drawable="@drawable/stev4" android:duration="50"/>
+</animation-list>
